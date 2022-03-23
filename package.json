@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex-bellon/markdown-week-headers.git"
+    "url": "https://github.com/alex-bellon/markdown-week-headers.git"
   },
   "dependencies": {
     "moment": "^2.19.1"
