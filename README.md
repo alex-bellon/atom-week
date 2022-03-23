@@ -18,3 +18,17 @@ apm install markdown-week-headers
 | `past`    | Past week ending with today      | Descending     |
 | `past2`   | Past 2 weeks ending with today   | Descending     |
 | `past3`   | Past 3 weeks ending with today   | Descending     |
+
+## Example
+
+The expanded text will look like this (for the ascending options):
+
+```Markdown
+## Mon Jan 1
+
+## Tue Jan 2
+
+## Wed Jan 3
+
+...
+```
